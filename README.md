@@ -6,6 +6,26 @@ Free O Reilly Books
 http://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf</br>
 http://www.oreilly.com/programming/free/files/microservices-for-java-developers.epub</br>
 http://www.oreilly.com/programming/free/files/microservices-for-java-developers.mobi</br>
+### Kubernetes for Java Developers: Orchestrate Multi-container Applications with Ease 
+http://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf</br>
+http://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.epub</br>
+http://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.mobi</br>
+### Docker for Java Developers: Package, Deploy, and Scale with Ease
+http://www.oreilly.com/programming/free/files/docker-for-java-developers.pdf</br>
+http://www.oreilly.com/programming/free/files/docker-for-java-developers.epub</br>
+http://www.oreilly.com/programming/free/files/docker-for-java-developers.mobi</br>
+### Migrating Java to the Cloud: Modernize Enterprise Systems Without Starting From Scratch
+http://www.oreilly.com/programming/free/files/migrating-java-to-the-cloud.pdf</br>
+http://www.oreilly.com/programming/free/files/migrating-java-to-the-cloud.epub</br>
+http://www.oreilly.com/programming/free/files/migrating-java-to-the-cloud.mobi</br>
+### Building Reactive Microservices in Java: Asynchronous and Event-Based Application Design
+http://www.oreilly.com/programming/free/files/building-reactive-microservices-in-java.pdf</br>
+http://www.oreilly.com/programming/free/files/building-reactive-microservices-in-java.epub</br>
+http://www.oreilly.com/programming/free/files/building-reactive-microservices-in-java.mobi</br>
+### Migrating to Microservice Databases: From Relational Monolith to Distributed Data
+http://www.oreilly.com/programming/free/files/migrating-to-microservice-databases.pdf</br>
+http://www.oreilly.com/programming/free/files/migrating-to-microservice-databases.epub</br>
+http://www.oreilly.com/programming/free/files/migrating-to-microservice-databases.mobi</br>
 ### Modern Java EE Design Patterns
 http://www.oreilly.com/programming/free/files/modern-java-ee-design-patterns.pdf</br>
 http://www.oreilly.com/programming/free/files/modern-java-ee-design-patterns.epub</br>
